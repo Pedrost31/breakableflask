@@ -1,6 +1,5 @@
 # Breakable Flask
 
-efe
 A simple vulnerable Flask application.
 
 This can be used to test out and learn exploitation of common web application vulnerabilities. 
