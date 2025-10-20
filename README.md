@@ -2,7 +2,7 @@
 
 A simple vulnerable Flask application.efe
 
-This can be used to test out and learn exploitation of common web application vulnerabilities. 
+This can be used to test out and learn exploitation of common web applicaeftion vulnerabilities. 
 
 Originally written because I wanted a very simple, single file vulnerable app that I could quickly run up to perform exploitation checks against. 
 
